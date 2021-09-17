@@ -29,9 +29,9 @@
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",
     "@commitlint/config-conventional": "^9.1.1",
-    "husky": "^4.2.5",
+    "husky": "^4.3.7",
     "prettier": "^2.1.2",
-    "semantic-release": "^17.1.1"
+    "semantic-release": "^17.3.1"
   },
   "dependencies": {
     "@sourcegraph/prettierrc": "^3.0.3",
